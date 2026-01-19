@@ -2,8 +2,8 @@ from alpaca_trade_api.rest import REST
 import time
 
 # --- CONFIGURATION ---
-API_KEY = "PKQYLGCLIS6T4ZXMFGGS5D3MWZ"       # <--- PASTE YOUR KEY
-SECRET_KEY = "AbpzB1hECKRQgMy6EoJz315fvnU4E1Nrir3zPKV2Vbw3" # <--- PASTE YOUR SECRET
+API_KEY = ""       # <--- PASTE YOUR KEY
+SECRET_KEY = "" # <--- PASTE YOUR SECRET
 BASE_URL = "https://paper-api.alpaca.markets"
 
 # --- CONNECT ---
